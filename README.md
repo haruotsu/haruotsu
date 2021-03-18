@@ -11,8 +11,8 @@
 
 # Skills
 
-[![cpp](image/cpp.png)](https://github.com/YokoPhys-h)
-[![mathematica](image/mathematica.png)](https://github.com/YokoPhys-h)
-[![gnuplot](image/gnuplot.png)](https://github.com/YokoPhys-h)
+[![cpp](image/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![mathematica](image/mathematica.png)](https://www.wolfram.com/)
+[![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
 
 ## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
