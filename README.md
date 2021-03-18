@@ -11,8 +11,8 @@
 
 # Skills
 
-[![cpp](image/cpp.png)](https://github.com/hrt_ykym)
-[![mathematica](image/mathematica.png)](https://github.com/hrt_ykym)
-[![gnuplot](image/gnuplot.png)](https://github.com/hrt_ykym)
+[![cpp](image/cpp.png)](https://github.com/YokoPhys-h)
+[![mathematica](image/mathematica.png)](https://github.com/YokoPhys-h)
+[![gnuplot](image/gnuplot.png)](https://github.com/YokoPhys-h)
 
 ## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
