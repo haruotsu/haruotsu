@@ -4,6 +4,11 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hrt_ykym.svg?style=social&label=Follow%20%40hrt_ykym)](https://twitter.com/hrt_ykym)
 
+
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
 
-## I am Elephant🐘
+# Skills
+
+[![cpp](image/cpp.png)](https://github.com/hrt_ykym)
+[![mathematica](image/mathematica.png)](https://github.com/hrt_ykym)
+[![gnuplot](image/gnuplot.png)](https://github.com/hrt_ykym)
