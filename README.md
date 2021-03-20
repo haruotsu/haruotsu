@@ -14,6 +14,7 @@
 # Skills
 
 [![cpp](image/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Rust](image/Rust.png)](https://www.rust-lang.org/)
 [![mathematica](image/mathematica.png)](https://www.wolfram.com/)
 [![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
 
