@@ -2,7 +2,7 @@
 
 ## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
 
-<img src=image/sozai1.png alt=icon2 width="200">
+
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hrt_ykym.svg?style=social&label=Follow:%20%40hrt_ykym)](https://twitter.com/hrt_ykym)
@@ -17,5 +17,7 @@
 [![Rust](image/Rust.png)](https://www.rust-lang.org/)
 [![mathematica](image/mathematica.png)](https://www.wolfram.com/)
 [![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
+
+<img src=image/sozai1.png alt=icon2 width="200">
 
 ## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
