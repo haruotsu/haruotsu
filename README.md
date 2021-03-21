@@ -1,8 +1,8 @@
-# YokoPhys-h
+# YokoPhys
 
 ## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
 
-<img src=image/kusatsu_neko.jpg alt=kusatsu_neko width="200">
+<img src=image/icon2.png alt=icon2 width="200">
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hrt_ykym.svg?style=social&label=Follow:%20%40hrt_ykym)](https://twitter.com/hrt_ykym)
