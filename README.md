@@ -1,6 +1,6 @@
 # YokoPhys
 
-## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
+## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
 
 <img src=image/sozai1.png alt=icon2 width="200">
 
@@ -18,4 +18,4 @@
 [![mathematica](image/mathematica.png)](https://www.wolfram.com/)
 [![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
 
-## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
+## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
