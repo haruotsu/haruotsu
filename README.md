@@ -1,6 +1,5 @@
 # 🐘Welcome to YokoPhys's GitHub Pages!🐘
 
-## My interest.
 
 
 <img src=image/sozai1.png alt=icon2 width="200">
@@ -12,6 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
 
+# My interest.
 # Skills
 [](
     25~30pxが最適
