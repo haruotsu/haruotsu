@@ -21,6 +21,10 @@
 - Numerical calculation
 - mathematical model using dynamical system
 
+## Recent work
+- Construction of inflationaly universe analysis code for arbitrary potential model.
+
+
 ## Skills. 💪
 [![cpp](image/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![mathematica](image/mathematica.png)](https://www.wolfram.com/)
