@@ -1,7 +1,4 @@
-# Welcome to my GitHub Pages!
-
-🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
-
+# 🐘Welcome to YokoPhys's GitHub Pages!🐘
 
 ## My interest.
 
@@ -25,5 +22,3 @@
 [![python](image/python.png)](https://www.python.org/)
 [![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
 
----
-🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
