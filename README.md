@@ -9,21 +9,25 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
 
-## My interests.
-- Physics (Theory of elementary physics) 👨‍🎓
-- Computational physics (Numerical calculation) 💻
-- mathematical model 📈
+## My interests. 🔥
+- Physics and Math 👨‍🎓
 - Whisky 🥃
 - Swimming 🏊
 - Cycling 🚲
 
-## Skills.
-[](
-    25~30pxが最適
-)
+## My research interests. 🔎
+- Inflationaly universe scenario
+- Nonlinear Physics
+- Solitons and Instantons in field theory
+- Numerical calculation
+- mathematical model using dynamical system
+
+## Skills. 💪
 [![cpp](image/cpp.png)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![mathematica](image/mathematica.png)](https://www.wolfram.com/)
 [![fortran](image/fortran.png)](https://en.wikipedia.org/wiki/Fortran)
 [![python](image/python.png)](https://www.python.org/)
 [![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
 
+## Messages.
+I want to enhance each other by discussing and sharing knowledge. Feel free to contact me for talking, drinking parties, presentations, etc.! 👀👀
