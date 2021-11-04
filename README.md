@@ -1,6 +1,5 @@
 # 🐘Welcome to YokoPhys's GitHub Pages!🐘
 
-<img src=image/sozai1.png alt=icon2 width="200">
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hrt_ykym.svg?style=social&label=Follow:%20%40hrt_ykym)](https://twitter.com/hrt_ykym)
@@ -31,3 +30,5 @@
 
 ## Messages.
 I want to enhance each other by discussing and sharing knowledge. Feel free to contact me for talking, drinking parties, presentations, etc.! 👀👀
+
+<img src=image/sozai1.png alt=icon2 width="200">
