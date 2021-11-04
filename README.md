@@ -15,7 +15,7 @@
 - Swimming 🏊
 - Cycling 🚲
 
-## My research interests. 🔎
+## My research theme. 🔎
 - Inflationaly universe scenario
 - Nonlinear Physics
 - Solitons and Instantons in field theory
