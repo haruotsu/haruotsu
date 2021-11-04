@@ -8,13 +8,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
 
-## My interests. 🔥
+## Interests. 🔥
 - Physics and Math 👨‍🎓
 - Whisky 🥃
 - Swimming 🏊
 - Cycling 🚲
 
-## My research theme. 🔎
+## Research theme. 🔎
 - Inflationaly universe scenario
 - Nonlinear Physics
 - Solitons and Instantons in field theory
