@@ -1,6 +1,7 @@
 # YokoPhys
 
-## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
+🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
+---
 
 <img src=image/sozai1.png alt=icon2 width="200">
 
@@ -21,4 +22,4 @@
 [![python](image/python.png)](https://www.python.org/)
 [![gnuplot](image/gnuplot.png)](http://www.gnuplot.info/)
 
-## 🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
+🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘🐘
