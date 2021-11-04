@@ -21,7 +21,7 @@
 - Numerical calculation
 - mathematical model using dynamical system
 
-## Recent work👨‍🔬
+## Recent work.👨‍🔬
 - Construction of inflationaly universe analysis code for arbitrary potential model.
 
 
