@@ -22,7 +22,7 @@
 - Mathematical model using dynamical system
 
 ## Recent work. 👨‍🔬
-- Construction of inflationaly universe model and analysig model using information theory.
+- PINN (:Physics-Informed Neural Network) Extensions and Applications for some dynamical system
 
 
 ## Skills. 💪
