@@ -8,7 +8,7 @@
 
 <a href="https://github.com/YokoPhys-h/github-profile-trophy"></a>
 <a href="https://github.com/YokoPhys-h/github-profile-trophy">
-  <img width=500 src="https://github-profile-trophy.vercel.app/?username=YokoPhys-h&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=700 src="https://github-profile-trophy.vercel.app/?username=YokoPhys-h&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
