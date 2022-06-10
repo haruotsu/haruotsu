@@ -8,14 +8,13 @@
 
 <a href="https://github.com/YokoPhys-h/github-profile-trophy"></a>
 <a href="https://github.com/YokoPhys-h/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=YokoPhys-h&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=350px src="https://github-profile-trophy.vercel.app/?username=YokoPhys-h&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YokoPhys-h&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YokoPhys-h&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 ## Interests. 🔥
