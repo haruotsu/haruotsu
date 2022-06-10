@@ -13,6 +13,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&theme=dracula)
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YokoPhys-h&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YokoPhys-h&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+</p>
+
 ## Interests. 🔥
 - Physics and Math 👨‍🎓
 - Whisky 🥃
