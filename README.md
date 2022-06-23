@@ -1,4 +1,4 @@
-# 🐘Welcome to YokoPhys's GitHub Pages!🐘
+# 🐘Welcome to Haruto Yokoyama's GitHub Pages!🐘
 
 
 
