@@ -2,12 +2,12 @@
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hrt_ykym.svg?style=social&label=Follow:%20%40hrt_ykym)](https://twitter.com/hrt_ykym)
-[![GitHub URL](https://img.shields.io/badge/GitHub--lightgrey.svg?logo=github&amp;style=social&label=Follow:%20%40hrt-ykym)](https://github.com/hrt-ykym)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hrt_ykym.svg?style=social&label=Follow:%20%40haruotsu_hy)](https://twitter.com/haruotsu_hy)
+[![GitHub URL](https://img.shields.io/badge/GitHub--lightgrey.svg?logo=github&amp;style=social&label=Follow:%20%40haruotsu)](https://github.com/haruotsu)
 [![Qiita](image/qiita.png)](https://qiita.com/hrt-ykym)
 
-<a href="https://github.com/hrt-ykym/github-profile-trophy"></a>
-<a href="https://github.com/hrt-ykym/github-profile-trophy">
+<a href="https://github.com/haruotsu/github-profile-trophy"></a>
+<a href="https://github.com/haruotsu/github-profile-trophy">
   <img width=700 src="https://github-profile-trophy.vercel.app/?username=hrt-ykym&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 [](
