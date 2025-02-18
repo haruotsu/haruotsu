@@ -8,10 +8,10 @@
 
 <a href="https://github.com/haruotsu/github-profile-trophy"></a>
 <a href="https://github.com/haruotsu/github-profile-trophy">
-  <img width=700 src="https://github-profile-trophy.vercel.app/?username=hrt-ykym&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=700 src="https://github-profile-trophy.vercel.app/?username=haruotsu&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 [](
-  ![](https://github-readme-stats.vercel.app/api?username=hrt-ykym&count_private=true&show_icons=true&theme=dracula)
+  ![](https://github-readme-stats.vercel.app/api?username=haruotsu&count_private=true&show_icons=true&theme=dracula)
 )
 
 ## Interests. 🔥
